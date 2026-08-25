@@ -1,5 +1,6 @@
 # Portafolio-Landing-page
-Diseño de portafolio web para el PFO1 de materia Front-End IFTS29
+Diseño de portafolio web para el PFO1 de materia Front-End IFTS29.
+
 Portafolio web personal desarrollado como una landing page. Incluye presentación personal con nombre y apellido, resumen de habilidades, canales de contacto y una sección de interés personal a elección.
 
 ---
